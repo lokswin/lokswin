@@ -3,7 +3,8 @@
 
 
 <p align='center'>
-  I am an Software Engineer with 2.5 years hands on experience in C++ and over 5 years experience in IT.
+  I am a software engineer who studied 5.5 years in computer science.
+  I have more than 5 years of practical experience in IT, including 2.5 years of working with C++.
 <p align='center'>
 My projects:&nbsp;&nbsp;<a href="https://www.youtube.com/@worktaras/" target="_blank">
     <img src="/youtube.svg" width="5%" height="5%">
